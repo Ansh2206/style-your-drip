@@ -45,3 +45,21 @@ src/
 ├── App.jsx
 ├── App.css
 └── main.jsx
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/Home%20Page.png)
+
+### Products Page
+
+![Products Page](screenshots/Product%20Page.png)
+
+### Add Product
+
+![Add Product](screenshots/Add%20Product%20Page.png)
+
+### Cart Page
+
+![Cart Page](screenshots/Cart%20Page.png)
