@@ -45,3 +45,9 @@ src/
 ├── App.jsx
 ├── App.css
 └── main.jsx
+
+## ScreenShots
+
+### Home
+
+![alt text](<screenshots/Home Page.png>)
